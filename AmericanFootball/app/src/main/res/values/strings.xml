@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">American Football</string>
+
+    <string name="Player1ScoreLabl">Player 1</string>
+    <string name="Player2ScoreLabl">Player 2</string>
+
+    <string name="Player1Score">0</string>
+    <string name="Player2Score">0</string>
+
+    <string name="IncreaseBy6">6</string>
+    <string name="IncreaseBy3">3</string>
+    <string name="IncreaseBy2">2</string>
+    <string name="IncreaseBy1">1</string>
+
+    <string name="Reset">Reset</string>
+
+</resources>
